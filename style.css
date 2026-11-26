@@ -189,3 +189,20 @@ header { border-bottom: 1px solid var(--bord); }
 .bande-atelier { padding: .6rem 0; background: #e3f4f3; color: #124d50; font-size: .94rem; }
 .bande-atelier a { font-weight: 700; }
 .retour-essai:not(:empty) { margin-block: .6rem; padding: .55rem .7rem; background: #e3f4f3; color: #124d50; font-size: .95rem; }
+
+h1{
+  color: red;
+}
+
+.bouton:hover {
+  background-color: rgb(167, 0, 0);
+}
+
+
+.bouton {
+  background-color: red;
+}
+
+figcaption {
+  background-color: red;
+}
